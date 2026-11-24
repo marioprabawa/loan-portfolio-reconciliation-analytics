@@ -1,1 +1,0 @@
-Anonymized loan portfolio workbook.
